@@ -12,6 +12,7 @@ The goal was to perform Exploratory Data Analysis (EDA), clean the dataset, visu
 Dataset Information
 
 * Source: Kaggle Zomato Bangalore Restaurants Dataset
+* link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 * Total Records: 51,717
 * Total Features: 17
 
